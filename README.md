@@ -9,4 +9,5 @@
 <h2>Contacts: </h2>
 <h3>Telegram:   @d0brii
 Gmail:      artem.gymnasium1@gmail.com
+LinkedIn:   Артем Клишевич
 </h3></pre>
