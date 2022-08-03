@@ -1,12 +1,12 @@
 <pre>
-<h3>Languages, Skills and Tools: <br>
-1) C#                                         6) WEB, Computer Systems
-2) C# ASP.NET Core                            7) GIT Technology
-3) DB - SQL (Microsoft SQL Server, MySQL)     8) HTML5, CSS
-4) Python                                    
-5) C++                                        
+<h2>Languages, Skills and Tools: </h2>
+<h3>1) C#                                         6) Basics C++
+2) ASP.NET Core                               7) Python 
+3) Entity Framework Core                      8) HTML5, CSS
+4) DB - SQL (Microsoft SQL Server, MySQL)     9) WEB, Computer Systems                              
+5) GIT Technology                             10) Basics Assembler 
 </h3></pre><pre>
-<h3>Contacts:
-Telegram:   @d0brii
+<h2>Contacts: </h2>
+<h3>Telegram:   @d0brii
 Gmail:      artem.gymnasium1@gmail.com
 </h3></pre>
