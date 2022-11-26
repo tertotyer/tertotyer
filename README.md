@@ -1,7 +1,7 @@
 
 <h2>Languages, Skills and Tools: </h2>
 
-<h3><pre>1) C#                                            6) C++ Basics 
+<h3><pre>1) C#                                                6) C++ Basics 
 2) ASP.NET Core                                       7) Python 
 3) Entity Framework Core                              8) HTML5, CSS
 4) DB - SQL, PL/SQL (Microsoft SQL Server, Oracle)    9) WEB, Computer Systems                              
