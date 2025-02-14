@@ -11,5 +11,5 @@
 <h2>Contacts: </h2>
 <pre>
 <b>Telegram: </b>  <a href="https://t.me/d0brii">@d0brii</a>
-<b>Gmail: </b>     <a href="mailto:art.klishevich@gmail.com">artem.gymnasium1@gmail.com</a>
+<b>Gmail: </b>     <a href="mailto:art.klishevich@gmail.com">art.klishevich@gmail.com</a>
 <b>LinkedIn: </b>  <a href="https://www.linkedin.com/in/tertotyer/">linkedin.com/in/tertotyer</a> </pre>
