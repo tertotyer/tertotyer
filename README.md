@@ -12,4 +12,5 @@
 <pre>
 <b>Telegram: </b>  <a href="https://t.me/d0brii">@d0brii</a>
 <b>Gmail: </b>     <a href="mailto:art.klishevich@gmail.com">art.klishevich@gmail.com</a>
-<b>LinkedIn: </b>  <a href="https://www.linkedin.com/in/tertotyer/">linkedin.com/in/tertotyer</a> </pre>
+<b>LinkedIn: </b>  <a href="https://www.linkedin.com/in/tertotyer/">linkedin.com/in/tertotyer</a>
+<b>LeetCode: </b>  <a href="https://leetcode.com/tertotyer/">leetcode.com/tertotyer</a></pre>
